@@ -1,0 +1,5 @@
+[aws]
+AccessKey="XXXXXXXXXXXXXXXXXX"
+SecretKey="YYYYYYYYYYYYYYYYYYYY"
+Host = "webservices.amazon.com"
+AssociateTag = "sinelga"
